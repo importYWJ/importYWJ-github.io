@@ -1,0 +1,1 @@
+const e={key:"v-6f1f3595",path:"/guide/bundler.html",title:"Bundler",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Choose a Bundler",slug:"choose-a-bundler",children:[]},{level:2,title:"Bundler Config",slug:"bundler-config",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"guide/bundler.md"};export{e as data};
